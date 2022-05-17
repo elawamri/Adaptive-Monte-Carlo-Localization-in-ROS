@@ -27,7 +27,7 @@ $ git clone https://github.com/ros-teleop/teleop_twist_keyboard
 ```
 #### - Run the ```teleop``` script
 ```bash
-rosrun teleop_twist_keyboard teleop_twist_keyboard.py
+$ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```
 ### 4. Preview
 This is a preview video of robot's localization using amcl package, [Click here](https://www.youtube.com/watch?v=fFR2rek36js)
